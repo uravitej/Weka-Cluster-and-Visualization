@@ -1,9 +1,7 @@
 <!--  
 /*
  * Name: Ravitej Urikiti
- * Student ID: 1001114648
- * Course: CSE 6339 (Cloud Computing)
- * Assignment 5: Visualizing Clustering
+
  * Ref: https://www.youtube.com/watch?v=n5NcCoa9dDU&list=PL6il2r9i3BqH9PmbOf5wA5E1wOG3FT22p
  * 		http://d3js.org/
  		https://github.com/adamhoward/websockets-demo/blob/master/websockets- client.html
