@@ -1,8 +1,6 @@
 /*
  * Name: Ravitej Urikiti
- * Student ID: 1001114648
- * Course: CSE 6339 (Cloud Computing)
- * Assignment 5: Visualizing Clustering
+
  * Ref: http://www.programcreek.com/2014/02/k-means-clustering-in-java/
  */
 
